@@ -4,7 +4,7 @@
 Today, I set up my github repository and drew a rough sketch of what my keyboard will look like when completed, provided below.
 
 ### Design Image
-![My Keyboard Layout](kkeb%20design.png)
+![My Keyboard Layout](IMG_1136.png)
 
 
 
