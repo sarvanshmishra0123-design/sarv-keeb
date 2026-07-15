@@ -8,4 +8,9 @@ Today, I set up my github repository and drew a rough sketch of what my keyboard
 
 
 
+#  sarv-keeb
+###July 15th 2026 
+Worked on the schematic and finished row 1and 2, currently working on all the other ones.
+
+
 
